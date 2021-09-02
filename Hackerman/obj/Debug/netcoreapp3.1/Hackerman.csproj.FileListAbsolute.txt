@@ -1,0 +1,16 @@
+C:\github\183\Hackerman\obj\Debug\netcoreapp3.1\Hackerman.csproj.AssemblyReference.cache
+C:\github\183\Hackerman\obj\Debug\netcoreapp3.1\Hackerman.Form1.resources
+C:\github\183\Hackerman\obj\Debug\netcoreapp3.1\Hackerman.csproj.GenerateResource.cache
+C:\github\183\Hackerman\obj\Debug\netcoreapp3.1\Hackerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\183\Hackerman\obj\Debug\netcoreapp3.1\Hackerman.AssemblyInfoInputs.cache
+C:\github\183\Hackerman\obj\Debug\netcoreapp3.1\Hackerman.AssemblyInfo.cs
+C:\github\183\Hackerman\obj\Debug\netcoreapp3.1\Hackerman.csproj.CoreCompileInputs.cache
+C:\github\183\Hackerman\bin\Debug\netcoreapp3.1\Hackerman.exe
+C:\github\183\Hackerman\bin\Debug\netcoreapp3.1\Hackerman.deps.json
+C:\github\183\Hackerman\bin\Debug\netcoreapp3.1\Hackerman.runtimeconfig.json
+C:\github\183\Hackerman\bin\Debug\netcoreapp3.1\Hackerman.runtimeconfig.dev.json
+C:\github\183\Hackerman\bin\Debug\netcoreapp3.1\Hackerman.dll
+C:\github\183\Hackerman\bin\Debug\netcoreapp3.1\Hackerman.pdb
+C:\github\183\Hackerman\obj\Debug\netcoreapp3.1\Hackerman.dll
+C:\github\183\Hackerman\obj\Debug\netcoreapp3.1\Hackerman.pdb
+C:\github\183\Hackerman\obj\Debug\netcoreapp3.1\Hackerman.genruntimeconfig.cache
