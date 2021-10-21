@@ -12,6 +12,7 @@ namespace Hackerman
 {
     public partial class Form1 : Form
     {
+        int compteur = 0;
         public Form1()
         {
             InitializeComponent();
@@ -19,10 +20,9 @@ namespace Hackerman
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-
-            int i = Convert.ToInt32(lblScore.Text);
-            i++;
-            lblScore.Text = i.ToString();
+            compteur++;
+            lblScore.Text = compteur.ToString();
+            
         }
     }
 }

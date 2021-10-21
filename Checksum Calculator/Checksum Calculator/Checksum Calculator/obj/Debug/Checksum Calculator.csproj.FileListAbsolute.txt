@@ -1,0 +1,20 @@
+C:\Users\mathias.amt\source\repos\Checksum Calculator\Checksum Calculator\bin\Debug\Checksum Calculator.exe.config
+C:\Users\mathias.amt\source\repos\Checksum Calculator\Checksum Calculator\bin\Debug\Checksum Calculator.exe
+C:\Users\mathias.amt\source\repos\Checksum Calculator\Checksum Calculator\bin\Debug\Checksum Calculator.pdb
+C:\Users\mathias.amt\source\repos\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum Calculator.csproj.AssemblyReference.cache
+C:\Users\mathias.amt\source\repos\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum_Calculator.frmchecksum.resources
+C:\Users\mathias.amt\source\repos\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum_Calculator.Properties.Resources.resources
+C:\Users\mathias.amt\source\repos\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum Calculator.csproj.GenerateResource.cache
+C:\Users\mathias.amt\source\repos\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mathias.amt\source\repos\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum Calculator.exe
+C:\Users\mathias.amt\source\repos\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum Calculator.pdb
+C:\github\183\Checksum Calculator\Checksum Calculator\Checksum Calculator\bin\Debug\Checksum Calculator.exe.config
+C:\github\183\Checksum Calculator\Checksum Calculator\Checksum Calculator\bin\Debug\Checksum Calculator.exe
+C:\github\183\Checksum Calculator\Checksum Calculator\Checksum Calculator\bin\Debug\Checksum Calculator.pdb
+C:\github\183\Checksum Calculator\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum Calculator.csproj.AssemblyReference.cache
+C:\github\183\Checksum Calculator\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum_Calculator.frmchecksum.resources
+C:\github\183\Checksum Calculator\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum_Calculator.Properties.Resources.resources
+C:\github\183\Checksum Calculator\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum Calculator.csproj.GenerateResource.cache
+C:\github\183\Checksum Calculator\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum Calculator.csproj.CoreCompileInputs.cache
+C:\github\183\Checksum Calculator\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum Calculator.exe
+C:\github\183\Checksum Calculator\Checksum Calculator\Checksum Calculator\obj\Debug\Checksum Calculator.pdb

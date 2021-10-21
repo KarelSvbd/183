@@ -1,0 +1,14 @@
+C:\Users\David.mchdb\source\repos\hashsalt\bin\Debug\hashsalt.exe.config
+C:\Users\David.mchdb\source\repos\hashsalt\bin\Debug\hashsalt.exe
+C:\Users\David.mchdb\source\repos\hashsalt\bin\Debug\hashsalt.pdb
+C:\Users\David.mchdb\source\repos\hashsalt\obj\Debug\hashsalt.csproj.AssemblyReference.cache
+C:\Users\David.mchdb\source\repos\hashsalt\obj\Debug\hashsalt.csproj.CoreCompileInputs.cache
+C:\Users\David.mchdb\source\repos\hashsalt\obj\Debug\hashsalt.exe
+C:\Users\David.mchdb\source\repos\hashsalt\obj\Debug\hashsalt.pdb
+C:\github\183\hashsalt\hashsalt\bin\Debug\hashsalt.exe.config
+C:\github\183\hashsalt\hashsalt\bin\Debug\hashsalt.exe
+C:\github\183\hashsalt\hashsalt\bin\Debug\hashsalt.pdb
+C:\github\183\hashsalt\hashsalt\obj\Debug\hashsalt.csproj.AssemblyReference.cache
+C:\github\183\hashsalt\hashsalt\obj\Debug\hashsalt.csproj.CoreCompileInputs.cache
+C:\github\183\hashsalt\hashsalt\obj\Debug\hashsalt.exe
+C:\github\183\hashsalt\hashsalt\obj\Debug\hashsalt.pdb
